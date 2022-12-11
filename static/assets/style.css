@@ -163,7 +163,7 @@ i{
     transform: scale(0.92);
 }
 .sparkle{
-    background-image: url(../../../cdn.discordapp.com/attachments/975129514499772516/1043554950350897242/sparkle.gif);
+    background-image: url(../../../assets/sparkle.gif)}
 }
 .mark{
     position: fixed;
